@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"05a2eb7b7f577a3e","type":"file","file":"art/Birdcage Raoul Dufy 1914.md","subpath":"#^1a9b24","x":-2400,"y":-1180,"width":480,"height":630},
+		{"id":"df2af11043a20135","type":"file","file":"art/Seated woman Pablo Picasso 1908.md","subpath":"#^ad0b5a","x":-2400,"y":-490,"width":480,"height":680},
+		{"id":"724be4f0719509ab","type":"file","file":"art/Reclining Nude Pablo Picasso 1908.md","subpath":"#^2c9242","x":-2400,"y":-1660,"width":480,"height":420},
+		{"id":"351efcf7e977bba5","type":"file","file":"art/Bathing women Andre Derain.md","subpath":"#^40f4a7","x":-1880,"y":-1480,"width":480,"height":400},
+		{"id":"e30ad75519e89898","type":"file","file":"art/The girls of Avignon.md","subpath":"#^017b87","x":-1880,"y":-2080,"width":480,"height":520},
+		{"id":"2aa16ade518b9033","type":"file","file":"art/Still Life with Gingerpot 2 Piet Mondrian 1912.md","subpath":"#^b47970","x":-1880,"y":-1010,"width":480,"height":370},
+		{"id":"e0d04c811692d450","type":"file","file":"art/Nude Marc Chagall 1913.md","subpath":"#^2aedad","x":-2940,"y":-1180,"width":480,"height":670},
+		{"id":"10534923030af9f4","type":"file","file":"art/A driade (Nude in the forest) Picasso 1908.md","subpath":"#^8fe593","x":-2940,"y":-440,"width":480,"height":680},
+		{"id":"294b46a029cd4cb3","type":"file","file":"art/Head pablo picasso 1908.md","subpath":"#^d5838b","x":-2940,"y":-1840,"width":480,"height":600},
+		{"id":"591f0289e0ce7c18","type":"file","file":"art/A dream Picasso 1932.md","subpath":"#^b2fc91","x":-1360,"y":-1840,"width":500,"height":680},
+		{"id":"e7d1f0556db07c9f","type":"file","file":"art/House in the garden Pablo Picasso 1908.md","subpath":"#^335f12","x":-2420,"y":-2410,"width":500,"height":660},
+		{"id":"13209f5fa72af2e6","type":"file","file":"art/Big Nude Georges braque 1908.md","subpath":"#^2eccad","x":-1880,"y":-550,"width":480,"height":670},
+		{"id":"cca0856cdfb2b8e9","type":"file","file":"art/Viaduct at L'Estaque Georges Braque 1908.md","subpath":"#^be136a","x":-1360,"y":-1080,"width":500,"height":640}
+	],
+	"edges":[]
+}

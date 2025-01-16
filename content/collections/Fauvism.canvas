@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e38aa7f5ecfd8e07","type":"file","file":"art/Charing Cross Bridge, London Andre Derain 1906.md","subpath":"#^dab5c5","x":-620,"y":-380,"width":480,"height":420},
+		{"id":"592d2111e76b0765","type":"file","file":"art/Boats at Collioure Andre Derain 1905.md","subpath":"#^400a2c","x":-620,"y":-840,"width":480,"height":420},
+		{"id":"df9c30b66323f03a","type":"file","file":"art/Effect of Sun on the Water, London Andre Derain 1906.md","subpath":"#^8609ab","x":-1120,"y":-840,"width":480,"height":400},
+		{"id":"76bc5b1679b99e6f","type":"file","file":"art/The Orchard Maurice de Vlaminck 1905.md","subpath":"#^c16a26","x":-1120,"y":-400,"width":480,"height":420},
+		{"id":"9781c2f6b934e1e4","type":"file","file":"art/Boats at Martigues Raoul Dufy 1908.md","subpath":"#^08ce7d","x":-1620,"y":-840,"width":480,"height":420},
+		{"id":"136c2298f8182c8c","x":-1620,"y":-370,"width":480,"height":590,"type":"file","file":"art/Woman with Blue Eyes Kees van Dongen 1908.md","subpath":"#^4fb843"}
+	],
+	"edges":[]
+}
