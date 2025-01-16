@@ -1,7 +1,28 @@
+<!-- QueryToSerialize: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE contains(style,"cubism") SORT date -->
+<!-- SerializedQuery: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE contains(style,"cubism") SORT date -->
 
-```dataview
-TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover"
-FROM "art"
-WHERE contains(style,"cubism")
-SORT date ASC
-```
+| File                                                                                                      | Date             | style                                       | Cover                                                                                                       |
+| --------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[Baker's hotel Andre Derain]]                                         | January 01, 1904 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/TkvhN6P.png)                                                            |
+| [[The girls of Avignon]]                                                     | January 01, 1907 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://uploads1.wikiart.org/00492/images/pablo-picasso/les-demoiselles-d-avignon-1907.jpg) |
+| [[A driade (Nude in the forest) Picasso 1908]]         | January 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/oszP3qG.png)                                                            |
+| [[Bathing women Andre Derain]]                                         | January 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/Ev3Xgqu.png)                                                            |
+| [[Big Nude Georges braque 1908]]                                     | January 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/vE3KhMu.png)                                                            |
+| [[House in the garden Pablo Picasso 1908]]                 | January 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/UaoznSP.png)                                                            |
+| [[Seated woman Pablo Picasso 1908]]                               | January 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/jtlqjkD.png)                                                            |
+| [[Reclining Nude Pablo Picasso 1908]]                           | January 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/Ph3DTbA.png)                                                            |
+| [[Viaduct at L'Estaque Georges Braque 1908]]             | January 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/ZdpjzDj.png)                                                            |
+| [[Head pablo picasso 1908]]                                               | October 01, 1908 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/Bbvnu4C.png)                                                            |
+| [[Still Life with Gingerpot 2 Piet Mondrian 1912]] | January 01, 1912 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/2nS0LB4.png))                                                           |
+| [[Nude Marc Chagall 1913]]                                                 | January 01, 1913 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://uploads2.wikiart.org/images/marc-chagall/nude-1913.jpg)                             |
+| [[Birdcage Raoul Dufy 1914]]                                             | January 01, 1914 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/MKjY8zJ.png)                                                            |
+| [[Pedestal Table in the Studio]]                                     | January 17, 1922 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/P9VwJ8E.jpeg)                                                           |
+| [[The meals]]                                                                           | January 09, 1923 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/DCs3Nte.jpeg)                                                           |
+| [[A dream Picasso 1932]]                                                     | January 01, 1932 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/iaRID16.jpeg)                                                           |
+| [[Removal]]                                                                               | January 09, 1932 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/4XP5YeD.jpeg)                                                           |
+| [[The horses of Diomedes]]                                                 | January 09, 1934 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/IKJdh6I.jpeg)                                                           |
+| [[The Andalusian Reapers]]                                                 | January 07, 1935 | <ul><li>cubism</li><li>surrealism</li></ul> | ![anyName\|300](https://i.imgur.com/NqY6bJz.jpeg)                                                           |
+| [[Landscape with miracles]]                                               | January 09, 1935 | <ul><li>cubism</li></ul>                    | ![anyName\|300](https://i.imgur.com/R7L5rZU.jpeg)                                                           |
+| [[Pasiphae]]                                                                             | January 07, 1937 | <ul><li>cubism</li><li>surrealism</li></ul> | ![anyName\|300](https://i.imgur.com/NlSPTs4.jpeg)                                                           |
+| [[L'homme emblématique]]                                                     | January 09, 1939 | <ul><li>cubism</li><li>surrealism</li></ul> | ![anyName\|300](https://i.imgur.com/V0i5URi.jpeg)                                                           |
+<!-- SerializedQuery END -->

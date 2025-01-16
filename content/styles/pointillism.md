@@ -1,7 +1,39 @@
 
-```dataview
-TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover"
-FROM "art"
-WHERE contains(style,"pointillism")
-SORT date
-```
+<!-- QueryToSerialize: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE contains(style,"pointillism") SORT date -->
+<!-- SerializedQuery: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE contains(style,"pointillism") SORT date -->
+
+| File                                                                                                                        | Date             | style                                                   | Cover                                             |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| [[Corner of a House]]                                                                             | January 01, 1884 | <ul><li>pointillism</li><li>impressionism</li></ul>     | ![anyName\|300](https://i.imgur.com/v9vGmrV.png)  |
+| [[Sailboat]]                                                                                               | January 11, 1884 | <ul><li>neo-impressionism</li><li>pointillism</li></ul> | ![anyName\|300](https://i.imgur.com/aK2i5KK.png)  |
+| [[Model in Profile georges seurat]]                                                 | January 01, 1886 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/3X3Jlf7.png)  |
+| [[Model from the Back 1886 georges seurat]]                                 | January 01, 1886 | <ul><li>neo-impressionism</li><li>pointillism</li></ul> | ![anyName\|300](https://i.imgur.com/0T0YTCj.png)  |
+| [[Poseur standing, front view, study for "Les poseuses"]]     | January 01, 1887 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/RM1p6W8.png)  |
+| [[The Sky over the City]]                                                                     | January 01, 1888 | <ul><li>neo-impressionism</li><li>pointillism</li></ul> | ![anyName\|300](https://i.imgur.com/7GytLCL.png)  |
+| [[Chahut]]                                                                                                   | January 01, 1889 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/MDeugg3.png)  |
+| [[Nature Morte Aux Oranges]]                                                               | January 01, 1889 | <ul><li>neo-impressionism</li><li>pointillism</li></ul> | ![anyName\|300](https://i.imgur.com/38qGsdL.png)  |
+| [[The Eiffel Tower georges seurat]]                                                 | January 01, 1889 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/1HhjPnN.png)  |
+| [[The Evening Air]]                                                                                 | January 01, 1893 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/oAsjici.png)  |
+| [[Regatta henri-edmond cross]]                                                           | January 01, 1895 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/a1QOMkr.jpeg) |
+| [[The Blue Boat]]                                                                                     | January 01, 1899 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/8MjTW3z.png)  |
+| [[Family of Swans henri-edmond cross 1900]]                                 | January 01, 1900 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/zzUgzwk.jpeg) |
+| [[Provence Landscape henri-edmond cross 1900]]                           | January 01, 1900 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/cU9W0DZ.jpeg) |
+| [[The Papal Palace, Avignon]]                                                             | January 01, 1900 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/uudIuRn.png)  |
+| [[View of Menton]]                                                                                   | January 01, 1902 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/pBHDXX8.jpeg) |
+| [[Still Life With A Purro (II)]]                                                       | January 01, 1904 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/yHzkutf.png)  |
+| [[The Port of Collioure andre derain 1905]]                                 | January 01, 1904 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/hBgKSAP.jpeg) |
+| [[A Pine Tree]]                                                                                         | January 01, 1905 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/4rGgyoi.png)  |
+| [[Parrot Tulips (II) Henri Matisse]]                                               | January 01, 1905 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/PmFBaSf.jpeg) |
+| [[Sheaf binders Kees van Dongen 1905]]                                           | January 01, 1905 | <ul><li>pointillism</li></ul>                           | ![anyName\|300](https://i.imgur.com/YAX7mZ3.png)  |
+| [[Landscape (Couchée de soleil no. 1) jean metzinger 1906]] | January 01, 1906 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/QlXhBrH.jpeg) |
+| [[Le Moulin de la Galette kees van dongen 1906]]                       | January 01, 1906 | <ul><li>pointillism</li></ul>                           | ![anyName\|300](https://i.imgur.com/BDvB8oL.jpeg) |
+| [[Study for The Clearing]]                                                                   | January 01, 1906 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/80DaZA3.jpeg) |
+| [[Bathers henri-edmond cross 1907]]                                                 | January 01, 1907 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/YdRkEKW.jpeg) |
+| [[Paysage pointilliste jean metzinger 1907]]                               | January 01, 1907 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/JD0MS2Q.jpeg) |
+| [[An Incoming Storm henri-edmond cross 1908]]                             | January 01, 1908 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](\-)                               |
+| [[The Cypresses at Cagnes henri-edmond cross 1908]]                 | January 01, 1908 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](\-)                               |
+| [[The happy family]]                                                                               | January 01, 1917 | <ul><li>pointillism</li></ul>                           | ![anyName\|300](https://i.imgur.com/b6MrPxz.png)  |
+| [[Untitled - Landscape Near, Madrid]]                                             | January 01, 1922 | <ul><li>pointillism</li></ul>                           | ![anyName\|300](https://i.imgur.com/Fzw3I0Y.png)  |
+<!-- SerializedQuery END -->
+
+

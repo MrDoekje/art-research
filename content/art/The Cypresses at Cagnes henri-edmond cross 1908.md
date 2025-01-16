@@ -8,6 +8,6 @@ tags:
   - pointillism
   - neo-impressionism
   - henri-edmond-cross
-image:
+image: https://i.imgur.com/DI2KpMJ.jpeg
 ---
 ![](https://i.imgur.com/DI2KpMJ.jpeg)

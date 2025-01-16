@@ -3,9 +3,9 @@
 
 | File                                                                                                                        | Date             | style                                                   | Cover                                             |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| [[Bathers Two Nudes in an Exotic Landscape Jean Metzinger]] | January 01, 1905 | <ul><li>divisionism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/MJC22Fv.jpeg) |
 | [[Mountains at Collioure Andre Derain]]                                         | January 01, 1905 | <ul><li>divisionism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/DJXz8Ls.jpeg) |
 | [[Paysage Neo-Impressionniste Jean Metzinger]]                           | January 01, 1905 | <ul><li>divisionism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/kTFhmoY.png)  |
-| [[Bathers Two Nudes in an Exotic Landscape Jean Metzinger]] | January 01, 1905 | <ul><li>divisionism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/MJC22Fv.jpeg) |
 | [[A Peacock Jean Metzinger]]                                                               | January 01, 1906 | <ul><li>divisionism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/Ue8EUJr.jpeg) |
 | [[Bacchante Jean Metzinger]]                                                               | January 01, 1906 | <ul><li>divisionism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/BxV82h4.jpeg) |
 | [[Matin au Parc Montsouris Jean Metzinger]]                                 | January 01, 1906 | <ul><li>divisionism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/0CP49on.jpeg) |

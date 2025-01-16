@@ -1,7 +1,17 @@
+<!-- QueryToSerialize: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE artist = "Henri-Edmond Cross" SORT date --><!-- SerializedQuery: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE artist = "Henri-Edmond Cross" SORT date -->
 
-```dataview
-TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover"
-FROM "art"
-WHERE artist = "Henri-Edmond Cross"
-SORT date
-```
+| File                                                                                                        | Date             | style                                                   | Cover                                             |
+| ----------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| [[The Evening Air]]                                                                 | January 01, 1893 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/oAsjici.png)  |
+| [[Regatta henri-edmond cross]]                                           | January 01, 1895 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/a1QOMkr.jpeg) |
+| [[La Plage de Saint-Clair henri-edmond cross]]           | January 01, 1896 | <ul><li>neo-impressionism</li></ul>                     | ![anyName\|300](https://i.imgur.com/O2AOSWx.jpeg) |
+| [[The Blue Boat]]                                                                     | January 01, 1899 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/8MjTW3z.png)  |
+| [[Family of Swans henri-edmond cross 1900]]                 | January 01, 1900 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/zzUgzwk.jpeg) |
+| [[Provence Landscape henri-edmond cross 1900]]           | January 01, 1900 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/cU9W0DZ.jpeg) |
+| [[View of Menton]]                                                                   | January 01, 1902 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/pBHDXX8.jpeg) |
+| [[A Pine Tree]]                                                                         | January 01, 1905 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/4rGgyoi.png)  |
+| [[Study for The Clearing]]                                                   | January 01, 1906 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/80DaZA3.jpeg) |
+| [[Bathers henri-edmond cross 1907]]                                 | January 01, 1907 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/YdRkEKW.jpeg) |
+| [[An Incoming Storm henri-edmond cross 1908]]             | January 01, 1908 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/WgXrdNt.jpeg) |
+| [[The Cypresses at Cagnes henri-edmond cross 1908]] | January 01, 1908 | <ul><li>pointillism</li><li>neo-impressionism</li></ul> | ![anyName\|300](https://i.imgur.com/DI2KpMJ.jpeg) |
+<!-- SerializedQuery END -->
