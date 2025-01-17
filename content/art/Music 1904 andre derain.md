@@ -8,4 +8,5 @@ tags:
   - fauvism
 image: https://i.imgur.com/FgH9S51.jpeg
 ---
+---
 ![](https://i.imgur.com/FgH9S51.jpeg)

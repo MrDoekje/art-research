@@ -10,4 +10,6 @@ tags:
   - jean-metzinger
 image: https://i.imgur.com/Ue8EUJr.jpeg
 ---
+---
 ![](https://i.imgur.com/Ue8EUJr.jpeg)
+

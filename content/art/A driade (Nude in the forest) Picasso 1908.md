@@ -8,5 +8,7 @@ tags:
   - cubism
   - pablo-picasso
 image: https://i.imgur.com/oszP3qG.png
+source: https://www.wikiart.org/en/pablo-picasso/a-driade-nude-in-the-forest-1908
 ---
-![](https://i.imgur.com/oszP3qG.png) ^8fe593
+---
+![](https://i.imgur.com/oszP3qG.png)

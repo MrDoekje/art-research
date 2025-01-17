@@ -8,4 +8,5 @@ tags:
   - symbolism
 image: https://i.imgur.com/tXDDhNu.png
 ---
+---
 ![](https://i.imgur.com/tXDDhNu.png)

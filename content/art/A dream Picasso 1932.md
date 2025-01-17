@@ -8,4 +8,5 @@ tags:
   - pablo-picasso
 image: https://i.imgur.com/iaRID16.jpeg
 ---
-![](https://i.imgur.com/iaRID16.jpeg) ^b2fc91
+---
+![](https://i.imgur.com/iaRID16.jpeg)

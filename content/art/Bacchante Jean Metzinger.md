@@ -10,4 +10,5 @@ tags:
   - jean-metzinger
 image: https://i.imgur.com/BxV82h4.jpeg
 ---
+---
 ![](https://i.imgur.com/BxV82h4.jpeg)

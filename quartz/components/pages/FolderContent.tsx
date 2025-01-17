@@ -36,7 +36,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     allFiles.forEach((file) => {
       const fileSlug = stripSlashes(simplifySlug(file.slug!))
-      const prefixed = fileSlug.startsWith(folderSlug) && fileSlug !== folderSlug
+      const prefixed = fileSlug.startsWith(`${folderSlug}/`) && fileSlug !== folderSlug
       const fileParts = fileSlug.split(path.posix.sep)
       const isDirectChild = fileParts.length === folderParts.length + 1
 

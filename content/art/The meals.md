@@ -8,5 +8,5 @@ tags:
   - cubism
 image: https://i.imgur.com/DCs3Nte.jpeg
 ---
-
+---
 ![](https://i.imgur.com/DCs3Nte.jpeg)

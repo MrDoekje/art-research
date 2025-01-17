@@ -15,7 +15,7 @@ interface ContentMetaOptions {
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
+  showReadingTime: false,
   showComma: true,
 }
 
@@ -40,6 +40,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           minutes: Math.ceil(minutes),
         })
         segments.push(<span>{displayedTime}</span>)
+      }
+      if (fileData?.frontmatter?.artist) {
+        segments.push(<span>{fileData?.frontmatter.artist}</span>)
+      }
+      if (fileData?.frontmatter?.style) {
+        segments.push(<span>({(fileData?.frontmatter.style as []).join(", ")})</span>)
+      }
+      if (fileData?.frontmatter?.source) {
+        segments.push(<a href={fileData?.frontmatter?.source as string} target="_blank">view source</a>)
       }
 
       return (

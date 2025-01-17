@@ -1,4 +1,4 @@
-<!-- QueryToSerialize: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE contains(style,"fauvism") SORT date -->
+<!-- QueryToSerialize: TABLE date as "Date", artist as "Artist", style as "style", "![anyName|500](" + image + ")" AS "Cover" FROM "art" WHERE contains(style,"fauvism") SORT date -->
 <!-- SerializedQuery: TABLE date as "Date", style as "style", "![anyName|300](" + image + ")" AS "Cover" FROM "art" WHERE contains(style,"fauvism") SORT date -->
 
 | File                                                                                                                  | Date             | style                                               | Cover                                             |

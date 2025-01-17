@@ -8,5 +8,5 @@ tags:
   - symbolism
 image: https://i.imgur.com/sICHPeX.png
 ---
-
+---
 ![](https://i.imgur.com/sICHPeX.png)

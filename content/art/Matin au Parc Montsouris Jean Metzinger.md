@@ -10,4 +10,5 @@ tags:
   - divisionism
 image: https://i.imgur.com/0CP49on.jpeg
 ---
+---
 ![](https://i.imgur.com/0CP49on.jpeg)
