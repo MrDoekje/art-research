@@ -8,5 +8,5 @@ tags:
   - georges-braque
 image: https://i.imgur.com/O6zkacj.jpeg
 ---
----
+**---
 ![](https://i.imgur.com/O6zkacj.jpeg)

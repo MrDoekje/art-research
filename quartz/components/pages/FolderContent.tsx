@@ -28,7 +28,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
-    const folderSlug = stripSlashes(simplifySlug(fileData.slug!))
+
+    const folderSlug = simplifySlug(fileData.slug!)
     const folderParts = folderSlug.split(path.posix.sep)
 
     const allPagesInFolder: QuartzPluginData[] = []
@@ -36,7 +37,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     allFiles.forEach((file) => {
       const fileSlug = stripSlashes(simplifySlug(file.slug!))
-      const prefixed = fileSlug.startsWith(`${folderSlug}/`) && fileSlug !== folderSlug
+      const prefixed = fileSlug.startsWith(folderSlug) && fileSlug !== folderSlug
       const fileParts = fileSlug.split(path.posix.sep)
       const isDirectChild = fileParts.length === folderParts.length + 1
 
