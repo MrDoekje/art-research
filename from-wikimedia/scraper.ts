@@ -2,8 +2,6 @@ import axiod from "https://deno.land/x/axiod/mod.ts"
 import * as cheerio from "https://esm.sh/cheerio@1.0.0-rc.12"
 import { parseArgs } from "jsr:@std/cli/parse-args"
 
-const { createHash } = await import("node:crypto")
-
 interface Art {
   title: string
   artist: string

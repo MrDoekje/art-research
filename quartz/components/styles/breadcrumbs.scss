@@ -1,11 +1,16 @@
 .breadcrumb-container {
   margin: 0;
   margin-top: 0.75rem;
-  padding: 0;
+  padding: 4px;
+  border-radius: 4px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   gap: 0.5rem;
+  position: fixed;
+  background: var(--light);
+  top: 0px;
+  z-index: 1;
 }
 
 .breadcrumb-element {

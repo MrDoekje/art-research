@@ -44,11 +44,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         const tags = page.frontmatter?.tags ?? []
 
         return (
-          <li class="section-li">
+          <li class="section-li page-list-item">
+            {page?.frontmatter?.image && <img src={page?.frontmatter?.image} />}
             <div class="section">
-              <p class="meta">
+              <div class="meta">
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
+              </div>
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
@@ -83,5 +84,11 @@ PageList.css = `
 
 .section > .tags {
   margin: 0;
+}
+
+.page-list-item {
+  background-color: var(--lightgray);
+  padding: 16px;
+  border-radius: 4px;
 }
 `
